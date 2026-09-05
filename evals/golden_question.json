@@ -1,0 +1,5 @@
+[
+  {"question": "What is the flu vaccine recommendation?", "expected_source_ids": ["cdc-flu-vaccine-2024"]},
+  {"question": "Do antibiotics treat influenza?", "expected_source_ids": ["cdc-antibiotics-2024"]},
+  {"question": "What can delay type 2 diabetes?", "expected_source_ids": ["who-diabetes-2024"]}
+]
