@@ -1,1 +1,0 @@
-"""MedRAG application package."""
