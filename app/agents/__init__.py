@@ -1,1 +1,1 @@
-"""Specialized agents coordinated by the MedRAG research workflow."""
+"""MedRAG application package."""
